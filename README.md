@@ -1,2 +1,2 @@
-# Compiler-CS445---Project
+# Compiler - Project
 Compiler Course Project Repository
