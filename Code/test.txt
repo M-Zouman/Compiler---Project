@@ -3,4 +3,5 @@ intt i = 50;
 string s = "hello";
 for
 tor
-zx
+char a = '5';
+char c = 'A';
