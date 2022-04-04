@@ -2,6 +2,6 @@ int i = 50;
 intt i = 50;
 string s = "hello";
 for
-tor
+float t = 2.5;
 char a = '5';
 char c = 'A';
