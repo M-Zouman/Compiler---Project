@@ -1,7 +1,0 @@
-int i = 50;
-intt i = 50;
-string s = "hello";
-for
-float t = 2.5;
-char a = '5';
-char c = 'A';
