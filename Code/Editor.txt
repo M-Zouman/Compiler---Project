@@ -1,4 +1,7 @@
 Do:
-intt i = 50;
+int i = 1;
+String s "Hello";
+while i <= 5
+print(s)
 End
 
