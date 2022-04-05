@@ -1,4 +1,4 @@
 Do:
-intt i = 5;
+intt i = 50;
 End
 
