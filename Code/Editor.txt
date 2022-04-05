@@ -1,4 +1,2 @@
-Do:
-intt i = 3;
-End
+int i = 5;
 
