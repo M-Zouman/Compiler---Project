@@ -1,7 +1,4 @@
 Do:
-int i = 1;
-String s "Hello";
-while i <= 5
-print(s)
+intt i = 5;
 End
 
